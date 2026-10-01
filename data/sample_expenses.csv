@@ -1,0 +1,23 @@
+date,description,category,amount,payment_method
+2026-09-01,Hostel Fee,Education,7300,UPI
+2026-09-02,Breakfast,Food,60,Cash
+2026-09-02,Bus Travel,Travel,40,Cash
+2026-09-03,Lunch,Food,120,UPI
+2026-09-03,Notebook,Education,80,Cash
+2026-09-04,Bus Travel,Travel,40,Cash
+2026-09-05,Internet Recharge,Bills,299,UPI
+2026-09-06,Dinner,Food,150,UPI
+2026-09-07,Movie,Entertainment,200,UPI
+2026-09-08,Bus Travel,Travel,40,Cash
+2026-09-09,Lunch,Food,100,UPI
+2026-09-10,Medicine,Health,250,UPI
+2026-09-11,Snacks,Food,50,Cash
+2026-09-12,Bus Travel,Travel,40,Cash
+2026-09-13,Online Course,Education,499,UPI
+2026-09-14,Dinner,Food,180,UPI
+2026-09-15,Bus Travel,Travel,40,Cash
+2026-09-16,Shopping,Shopping,700,UPI
+2026-09-17,Lunch,Food,110,UPI
+2026-09-18,Bus Travel,Travel,40,Cash
+2026-09-19,Dinner,Food,160,UPI
+2026-09-20,Mobile Recharge,Bills,249,UPI
